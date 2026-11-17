@@ -1,3 +1,5 @@
+Readme le fichier contenant les reponces aux question du tp.
+
 Q1 : Dans quel fichier l'option --global enregistre-t-elle la configuration ? Quelle différence avec
 une configuration sans --global , faite dans un dépôt (fichier .git/config ) ?
 R1 : L'option global enregistre dans ~/.gitconfig  valable pour tous tes dépôts. Sans --global → écrit dans .git/config, valable pour ce dépôt seulement. Cest pourquoi lorsquon fait ls ~/.gitconfig on trouvera les reglege permanente comme mon email Baba.niang.isep... mon nom github Baba-Niang....et dautre information.
